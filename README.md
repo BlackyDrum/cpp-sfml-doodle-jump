@@ -1,4 +1,4 @@
-# c-sfml-doodle-jump
+# cpp-sfml-doodle-jump
 
 C++/SFML - My Attempt to write Doodle Jump.
 
