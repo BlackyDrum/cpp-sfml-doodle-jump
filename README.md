@@ -14,7 +14,7 @@ C++/SFML - My Attempt to write Doodle Jump.
 
 
 
-# How To run main.cpp:
+# How to run main.cpp:
 1. Setup SFML: https://www.sfml-dev.org/tutorials/2.5/start-vc.php
 2. Open your project directory containing the project file (.vcxproj).
 3. Copy the 'assets', 'sounds' and 'game' folder in this directory.
