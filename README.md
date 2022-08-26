@@ -20,3 +20,7 @@ C++/SFML - My Attempt to write Doodle Jump.
 3. Copy the 'assets', 'sounds' and 'game' folder in this directory.
 4. Copy the main.cpp in this directory.
 5. Build and run.
+
+
+
+Video Example: https://www.youtube.com/watch?v=roq6AIqZJcE&ab_channel=BlackyDrum
